@@ -1,0 +1,20 @@
+{
+    "accounts": [
+        {
+            "fullName": "Sachin Shrivastav",
+            "email": "sachinshrivastav152207@gmail.com",
+            "password": "5900eefd951bbb4ecb86d6cfede0e1fe",
+            "pin": "1415",
+            "amount": 1400,
+            "accountNumber": 2024000060850000
+        },
+        {
+            "fullName": "Vasudev Krishna",
+            "email": "vasudev@krishna.com",
+            "password": "29531cfb4dd56337faebc936ae5c2c51",
+            "pin": "1213",
+            "amount": 9847718,
+            "accountNumber": 2024000074730001
+        }
+    ]
+}
